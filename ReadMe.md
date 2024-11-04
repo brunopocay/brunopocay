@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estou trabalhando atualmente na empresa CBM Assessoria e Informática LTDA, Trabalho como Programador Jr. <br>Utilizo algumas stacks como: <br> React, Angular, Blazor, C#. <br>Atualmente estou focando em aprender Clean Architecture, testes unitários, além de continuar me aprimorando na lógica de programação nas stacks utilizadas.
+Estou prestando serviço atualmente na empresa I9 TI Solutions, estando alocado como desenvolvedor para a empresa TOTVS Brasil. <br>Utilizo algumas stacks como: <br> Angular, .NET para winforms e SQL. <br>Atualmente estou focando em aprender Clean Architecture, testes unitários, além de continuar sempre me aprimorando na lógica de programação nas stacks utilizadas.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bruno.pocay) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brunopocay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bruno-pocay-3572a7129/) 

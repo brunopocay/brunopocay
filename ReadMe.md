@@ -1,5 +1,12 @@
-# 💫 About Me:
-Estou prestando serviço atualmente na empresa I9 TI Solutions, estando alocado como desenvolvedor para a empresa TOTVS Brasil. <br>Utilizo algumas stacks como: <br> Angular, .NET para winforms e SQL. <br>Atualmente estou focando em aprender Clean Architecture, testes unitários, além de continuar sempre me aprimorando na lógica de programação nas stacks utilizadas.
+# 🚀 About Me:
+Sou desenvolvedor de software em início de carreira, com cerca de 2 anos de experiência prática. Atualmente atuo como Desenvolvedor PJ na I9 Ti Solutions, contribuindo em projetos internos e também em demandas da TOTVS Brasil.
+
+Minha jornada começou como estagiário na CBM Assessoria e Informática Ltda, onde fui efetivado como Programador de Sistemas antes mesmo de concluir o estágio, o que consolidou minha motivação em seguir na área.
+
+Atualmente, curso Análise e Desenvolvimento de Sistemas na FACENS (2025 - 2027) e busco constantemente evoluir minhas habilidades, explorando novas tecnologias, boas práticas e diferentes ramos da área de TI.
+
+💡 Interesses: Desenvolvimento web, boas práticas de arquitetura, automação de processos e aprendizado contínuo.
+🎯 Objetivo: crescer como desenvolvedor, colaborar em projetos relevantes e expandir minha experiência em diferentes áreas da tecnologia.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bruno.pocay) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brunopocay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bruno-pocay-3572a7129/) 
